@@ -1,9 +1,3 @@
-<h1 align="center">
-  
-  Language has been archived checkout [latest](https://github.com/cybellereaper/C4NovaLang/tree/main)
-  
-</h1>
-
 <p align="center">
   <img src="https://github.com/cybellereaper/selenelang/blob/main/assets/logo-design-1.png" width="512" alt="Moon orbit animation" />
 </p> 
